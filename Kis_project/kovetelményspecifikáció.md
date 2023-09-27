@@ -4,6 +4,7 @@ Projectünk célja, hogy az lehetővétegye a felhasználoknka az online képgal
 ## 2. Jelenlegi helyzet
 
 ## 3. Vágyálom rendszer
-
+A rendszer egy webes alkalmazás lesz, amely lehetővé teszi a felhasználók számára a képek feltöltését és megtekintését.
+A galéria képes lesz a képek címét, leírást és az adott feltöltő nevét kiírni.
 ## 4. Funkcionális követelmények
 
