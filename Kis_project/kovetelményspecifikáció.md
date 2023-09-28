@@ -1,6 +1,5 @@
 # Kovetelmény specifikáció
 ## 1. Áttekintés
-
 Projectünk egy webes alkalmazás ami lehetővéteszi a felhasználoknak az online képgalériába a kedvenc képeik feltöltését és más felhasználók képeinek megtekintését. A képek feltöltésekor a felhasználóknak lehetőségük van a képekhez címet és leírást is lehet megadni.
 ## 2. Jelenlegi helyzet
 
