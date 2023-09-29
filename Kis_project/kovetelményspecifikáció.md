@@ -1,7 +1,6 @@
 # Kovetelmény specifikáció
 ## 1. Áttekintés
-
-Projectünk egy webes alkalmazás ami lehetővéteszi a felhasználoknak az online képgalériába a kedvenc képeik feltöltését és más felhasználók képeinek megtekintését. A képek feltöltésekor a felhasználóknak lehetőségük van a képekhez címet és leírást is lehet megadni.
+A projektünk egy webes alkalmazás, amely lehetővé teszi a felhasználók számára az online képgalériába való képek feltöltését és más felhasználók által feltöltött képek megtekintését. Az alkalmazás célja, hogy egy egyszerű és intuitív felületen keresztül lehetőséget nyújtson a felhasználóknak képek megosztására és böngészésére.Ez az alkalmazás lehetőséget kínál a felhasználók számára, hogy kreativitásukat megosszák a világgal, és egy közösség részévé váljanak, ahol inspirálódhatnak és inspirálhatnak másokat. A modern és intuitív felhasználói felület segít a könnyű használatban, míg a keresési és értékelési funkciók az alkalmazás tartalmát gazdagítják.
 ## 2. Jelenlegi helyzet
 
 ## 3. Vágyálom rendszer
