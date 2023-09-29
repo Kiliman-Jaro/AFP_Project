@@ -4,7 +4,11 @@ A projektünk egy webes alkalmazás, amely lehetővé teszi a felhasználók sz�
 ## 2. Jelenlegi helyzet
 
 ## 3. Vágyálom rendszer
-A rendszer egy webes alkalmazás lesz, amely lehetővé teszi a felhasználók számára a képek feltöltését és megtekintését.
-A galéria képes lesz a képek címét, leírást és az adott feltöltő nevét kiírni.
+Az alkalmazás célja egy lenyűgöző és inspiráló online képgaléria alkalmazás létrehozása, amely teljesen kiszolgálja a felhasználók kreatív igényeit. Az optimális állapotban működő alkalmazás számos jellemzőt és funkciót fog magában foglalni:
+- **Felhasználóbarát, Látványos Felület:** Az alkalmazás rendelkezik egy könnyen kezelhető és vonzó felhasználói felülettel. A színes és interaktív design segíti a felhasználókat a könnyű navigációban és az alkalmazás élvezetes használatában.
+- **Felhasználói Regisztráció és Profilkezelés:** A felhasználók könnyen regisztrálhatnak az alkalmazásba, majd személyes profilokat hozhatnak létre. A profilok tartalmazzák a felhasználók feltöltött képeit.
+- **Képek Feltöltése és Szerkesztése:** A felhasználók lehetőséget kapnak saját képek feltöltésére. Minden feltöltött képhez cím és leírás hozzáadása is lehetséges, hogy részletesebb információkat adjanak a képekhez.
+
+Ezen funkciók és jellemzők optimális együttműködése azt a célt szolgálja, hogy az alkalmazás egy kreatív és inspiráló közösségé váljon a felhasználóknak, ahol képek megosztásával és böngészésével együtt élvezetes időt tölthetnek. Az alkalmazás igyekszik a legmagasabb színvonalú felhasználói élményt biztosítani a képgaléria szerelmesei számára.
 ## 4. Funkcionális követelmények
 
