@@ -12,3 +12,10 @@ A weboldalunk arra összpontosít, hogy a felhasználóknak egy egyszerű és ha
 
 ## 3. Követelménylista
 
+## 4 . Igényelt üzleti folyamatok modellje
+Egy webes képgaléria létrehozásához és működtetéséhez számos üzleti folyamat és modell szükséges,például:
+-Felhasználói regisztráció és hitelesítés: A webes képgaléria weboldalunknak lehetőséget kell biztosítania a felhasználóknak a regisztrációra, valamint a belépésre. Ez az alapja az adatok tárolásának és védelmének.
+-Képfeltöltés és tárolás: A felhasználóknak lehetőséget kell adni a képek feltöltésére a weboldalunkra. Ez magában foglalja a feltöltött képek tárolását és rendszerezését.
+-Képek megosztása: A felhasználóknak lehetőséget kell adni a képek megosztására más felhasználókkal vagy a közösségi médiában.
+Adatbiztonság és adatvédelem: Az üzleti modellnek gondoskodnia kell a felhasználók által feltöltött képek és személyes adatok biztonságáról és védelméről.
+Felhasználói támogatás: A weboldalnak lehetőséget kell biztosítania a felhasználóknak, hogy segítséget kérjenek vagy jelentsenek problémákat, és szükség esetén támogatást kell nyújtania.
