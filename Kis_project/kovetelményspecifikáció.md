@@ -13,7 +13,7 @@ Ezen funkciók és jellemzők optimális együttműködése azt a célt szolgál
 ## 4. Funkcionális követelmények
 
 
-#5 Jelenlegi üzleti folyamatok modellje
+## 5 Jelenlegi üzleti folyamatok modellje
 A képgaléria weboldalunk célja az, hogy könnyű és hatékony módon kezelje és megossza a felhasználók képeit az interneten. Az ilyen weboldalak olyan funkciókat és előnyöket kínálhatnak, amelyekkel leválthatják vagy kibővíthetik a hagyományos képtárolási és megosztási módszereket,mint például:
 -Képtárolás és Rendezés: A weboldal célja, hogy könnyű és rendszerezett módon tárolhassák a felhasználók képeit, lehetővé téve azok gyors megtalálását és kezelését. Ezzel váltja fel a hagyományos kép mappastruktúrát vagy a fizikai fotóalbumokat.
 -Képmegosztás: A weboldal lehetővé teszi a felhasználók számára, hogy könnyen megosszák képeiket a barátaikkal és családjukkal online, így megszűnik a képek e-mailben vagy más közösségi média platformokon történő küldözgetése.
