@@ -11,7 +11,7 @@ Az alkalmazás céljEgyszerűség: A képgaléria weboldalak általában könnye
 
 Ezen funkciók és jellemzők optimális együttműködése azt a célt szolgálja, hogy az alkalmazás egy kreatív és inspiráló közösségé váljon a felhasználóknak, ahol képek megosztásával és böngészésével együtt élvezetes időt tölthetnek. Az alkalmazás igyekszik a legmagasabb színvonalú felhasználói élményt biztosítani a képgaléria szerelmesei számára.
 ## 4. Funkcionális követelmények
-
+A funkcionális követelményekbe tartozik a képek böngészése,felhasználók megtekinthetik a feltöltött képeket, és böngészhetnek a galériában. Továbbá a képek megjelenítése.Emellett a profilkezelés,felhasználók bejelentkezhetnek, profiljukat szerkeszthetik és jelszavukat változtathatják.Képfeltöltés, felhasználók hozzáadhatnak új képeket a galériához, szerkeszthetik vagy törölhetik azokat.Riportolás és Moderálás: Az adminisztrátorok megtekinthetik a riportokat, amiket a felhasználók vagy más felhasználók elküldhetnek, és szükség esetén moderálhatják a tartalmakat.
 
 ## 5 Jelenlegi üzleti folyamatok modellje
 A képgaléria weboldalunk célja az, hogy könnyű és hatékony módon kezelje és megossza a felhasználók képeit az interneten. Az ilyen weboldalak olyan funkciókat és előnyöket kínálhatnak, amelyekkel leválthatják vagy kibővíthetik a hagyományos képtárolási és megosztási módszereket,mint például:
