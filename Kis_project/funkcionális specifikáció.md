@@ -11,16 +11,16 @@ Képgalériánk egy élményszerű felhasználói felületet kínál, amely seg�
 A weboldalunk arra összpontosít, hogy a felhasználóknak egy egyszerű és hatékony eszközt kínáljon a képek tárolására és megosztására, így hagyva időt és energiát más fontos tevékenységekre az online térben.Az egyszerűséget és az átláthatóságot helyezzük előtérbe, hogy a felhasználók ne veszítsenek el felesleges időt bonyolult beállításokkal és funkciókkal való küzdelemben.
 
 ## 3. Követelménylista
-K01 - Bejelentkezési felület
-K02 - Regisztrációs felület
-K03 - Jogosultsági szintek
-K04 - Felhasználónév/Jelszó módosítás
-K05 - Fénykép feltöltése és tárolása az interneten
-K06 - A fényképek megosztása más felhasználóval
-K07 - Fényképek kategorizálása
-K08 - A weboldal egyszerűsége, átláthatósága
-K09 - Az interneten tárolt fényképek biztonsága
-K10 - A fehasználó támogatása
+- Bejelentkezési felület
+- Regisztrációs felület
+- Jogosultsági szintek
+- Felhasználónév/Jelszó módosítás
+- Fénykép feltöltése és tárolása az interneten
+- A fényképek megosztása más felhasználóval
+- Fényképek kategorizálása
+- A weboldal egyszerűsége, átláthatósága
+- Az interneten tárolt fényképek biztonsága
+- A fehasználó támogatása
 
 ## 4 . Igényelt üzleti folyamatok modellje
 Egy webes képgaléria létrehozásához és működtetéséhez számos üzleti folyamat és modell szükséges,például:
