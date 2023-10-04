@@ -12,7 +12,7 @@ A frontend és a backend fejlesztők közötti szoros együttműködés kulcsfon
 
 ## 3. Üzleti folyamatok modellje
 
-![My Image](képek/uzleti.png)
+![My Image](main/képek/uzleti.png)
 
 ## 4. Követelmények
 A weboldal készítése során HTML/CSS, valamint JavaScript és PHP nyelveket használtunk. Az oldal szerkezete és küllemének kialakításához HTML és CSS kódokat alkalmaztunk. Az elkészült weboldalt teljes mértékben használhatjuk egy egyszerű internetes böngésző megnyitásával.
