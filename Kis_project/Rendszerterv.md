@@ -6,6 +6,7 @@ A rendszer célja az, hogy egy modern, kreatív közösségi platformot nyújtso
 ## 3. Üzleti folyamatok modellje
 
 ## 4. Követelmények
+A weboldal készítése során HTML/CSS, valamint JavaScript és PHP nyelveket használtunk. Az oldal szerkezete és küllemének kialakításához HTML és CSS kódokat alkalmaztunk. Az elkészült weboldalt teljes mértékben használhatjuk egy egyszerű internetes böngésző megnyitásával.
 
 ## 5. Funkcionális terv
 
