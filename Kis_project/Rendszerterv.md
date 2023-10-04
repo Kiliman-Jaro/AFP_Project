@@ -19,8 +19,25 @@ A weboldal készítése során HTML/CSS, valamint JavaScript és PHP nyelveket h
 
 ## 5. Funkcionális terv
 
-- Felhasználó: Képeket tud feltölteni privátban vagy publikusan és meg is tekintheti azokat.
-- Vendég: Csak publikus képeket tud megtekinteni.
+Rendszerszereplők:
+- Felhasználó
+- Vendég
+
+Felhasználó:
+- Képeket tud feltölteni privátban vagy publikusan
+- A saját és mások képeit meg tudja tekinteni.
+- Megoszthatják másokkal a képeiket
+- Tudják a saját képeiket címkézni, nevet, stílust megadni
+  
+Vendég:
+- Csak publikus képeket tud megtekinteni.
+
+Menü-hierarchiák:
+- Bejelentkezés
+- Regisztráció
+- Kijelentkezés
+- képek
+- privát képek
 
 ## 6. Fizikai környezet
 
