@@ -1,7 +1,7 @@
 # AFP_Project
 
 ## 𝐒𝐞𝐧𝐢𝐨𝐫𝐨𝐤(𝐀𝐅𝐏𝟑): 
--Deli Daniella
+-Deli Daniella '<'br'>'
 -Kiss Lili
 -Nyirfa Bálint
 
